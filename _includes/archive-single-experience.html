@@ -14,7 +14,8 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
+    <li class="experience-item">
+      <span class="bullet">&bull;</span> <!-- 添加分隔符 -->
       <div class="archive__item-content">
         {% if include.type == "grid" and teaser %}
           <div class="archive__item-teaser">
