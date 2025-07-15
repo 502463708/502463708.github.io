@@ -9,6 +9,6 @@ venue: 'MICCAI'
 paperurl: 'https://arxiv.org/pdf/2307.05898'
 citation: '<strong>Minqing Zhang</strong>, et al. (2025). &quot;Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks.&quot; <i>MICCAI 2025</i>. 1(3).'
 ---
-![论文配图]({{ '500x300.png' | relative_url }})
+![论文配图]({{ '/images/500x300.png' | relative_url }})
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
