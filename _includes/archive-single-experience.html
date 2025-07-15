@@ -14,7 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
+    <li class="experience-item">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -33,7 +33,10 @@
         {{ title }}
       {% endif %}
     </h3>
-    <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}</p>
+    <p class="archive__item-excerpt venue" itemprop="description">{{ post.venue }}</p>
+    {% if post.location %}
+    <p class="archive__item-excerpt location" itemprop="description">{{ post.location }}</p>
+    {% endif %}
     <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.start_date | date: "%B %d, %Y" }} - {{ post.end_date | date: "%B %d, %Y" }}</p>
     </li>
  </article>
