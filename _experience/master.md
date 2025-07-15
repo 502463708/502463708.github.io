@@ -1,5 +1,5 @@
 ---
-title: "Master's Degree in Software Engineering"
+title: "MPhil in Software Engineering"
 collection: experience
 type: "Postgraduate program"
 permalink: /experience/master
