@@ -2,7 +2,7 @@
 title: "Diversified and Structure-Realistic Fundus Image Synthesis for Diabetic Retinopathy Lesion Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-07-paper-title-number-6
+permalink: /publication/MICCAI-2024-SynthesisSegmentation
 excerpt: 'This paper investigates the benefits of synthesis models for DR lesion segmentation from fundus images.'
 date: 2024-10-07
 venue: 'MICCAI (early accept)'
