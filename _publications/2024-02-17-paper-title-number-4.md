@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing the noisy label issue.'
 date: 2020-09-29
-venue: 'MICCAI 2020'
+venue: 'MICCAI'
 paperurl: 'https://drive.google.com/file/d/1gfGqiUEqhrzx5Avz1FQf0upLMQGNq0wg/view'
 citation: 'Minqing Zhang, et al. (2020). &quot;Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation.&quot; <i>MICCAI 2020</i>. 1(3).'
 ---
