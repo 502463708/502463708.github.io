@@ -2,7 +2,7 @@
 title: "Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2020-09-29-paper-title-number-4
+permalink: /publication/MICCAI-2020-ConfidentLearning
 excerpt: 'This paper is about fixing the noisy label issue for 2D medical image segmentation.'
 date: 2020-09-29
 venue: 'MICCAI (early accept)'
