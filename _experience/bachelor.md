@@ -1,5 +1,5 @@
 ---
-title: "Bachelor's Degree in Information and Computing Science"
+title: "BEng in Information and Computing Science"
 collection: experience
 type: "Undergraduate program"
 permalink: /experience/bachelor
