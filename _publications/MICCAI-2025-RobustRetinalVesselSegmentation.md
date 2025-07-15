@@ -2,7 +2,7 @@
 title: "Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks"
 collection: publications
 category: conferences
-permalink: /publication/2025-09-23-paper-title-number-8
+permalink: /publication/MICCAI-2025-RobustRetinalVesselSegmentation
 excerpt: 'This paper is about improving real-world robustness for retinal vessel segmentation from fundus images.'
 date: 2025-09-23
 venue: 'MICCAI'
