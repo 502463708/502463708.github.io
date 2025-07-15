@@ -2,7 +2,7 @@
 title: "Rectifying Noisy Labels with Sequential Prior: Multi-scale Temporal Feature Affinity Learning for Robust Video Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2023-10-01-paper-title-number-5
+permalink: /publication/MICCAI-2023-VideoNoisyLabel
 excerpt: 'This paper is about fixing the noisy label issue for surgical video segmentation.'
 date: 2023-10-01
 venue: 'MICCAI'
