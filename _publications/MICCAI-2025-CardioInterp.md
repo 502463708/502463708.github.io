@@ -2,7 +2,7 @@
 title: "CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity"
 collection: publications
 category: conferences
-permalink: /publication/2025-09-23-paper-title-number-7
+permalink: /publication/MICCAI-2025-CardioInterp
 excerpt: 'This paper is about synthesizing realistic B-scans for cardiovascular OCT.'
 date: 2025-09-23
 venue: 'MICCAI'
