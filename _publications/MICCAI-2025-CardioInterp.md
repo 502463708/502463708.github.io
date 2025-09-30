@@ -6,7 +6,7 @@ permalink: /publication/MICCAI-2025-CardioInterp
 excerpt: 'This paper is about synthesizing realistic B-scans for cardiovascular OCT.'
 date: 2025-09-23
 venue: 'MICCAI'
-paperurl: 'https://arxiv.org/pdf/2307.05898'
+paperurl: 'https://papers.miccai.org/miccai-2025/paper/2405_paper.pdf'
 citation: 'Linyuan Li, Bing Yang, <strong>Minqing Zhang</strong>, et al. (2025). &quot;CardioInterp: Generative Modeling for Cardiovascular OCT Interpolation with Anatomical Continuity and Fidelity.&quot; <i>MICCAI 2025</i>. 1(3).'
 ---
 
