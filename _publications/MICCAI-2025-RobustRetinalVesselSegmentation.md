@@ -6,7 +6,7 @@ permalink: /publication/MICCAI-2025-RobustRetinalVesselSegmentation
 excerpt: 'This paper is about improving real-world robustness for retinal vessel segmentation from fundus images.'
 date: 2025-09-23
 venue: 'MICCAI'
-paperurl: 'https://arxiv.org/pdf/2307.05898'
+paperurl: 'https://papers.miccai.org/miccai-2025/paper/1772_paper.pdf'
 citation: '<strong>Minqing Zhang</strong>, et al. (2025). &quot;Towards Robust Retinal Vessel Segmentation via Reducing Open-set Label Noises from SAM-generated Masks.&quot; <i>MICCAI 2025</i>. 1(3).'
 ---
 
